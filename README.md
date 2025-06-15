@@ -50,7 +50,7 @@ python3 subdominator.py -d example.com -w subdomains.txt -t 50
 
 ## 👨‍💻 Autor
 
-Alan Contreras – [@alancontrerasmx](https://www.linkedin.com/in/alan-contreras-/)  
+Alan Contreras – [@alancontreras](https://www.linkedin.com/in/alan-contreras-/)  
 Cofundador y CEO de [Haak Cybersecurity Consulting](https://haak.com.mx)
 
 ## ⚠️ Aviso legal
