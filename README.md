@@ -1,4 +1,4 @@
-# 🛡️ Subdominator
+# 🛡️ Subdominator by Alan Contreras - Haak Cybersecurity Consulting
 
 **Subdominator** es una herramienta para investigadores de seguridad y equipos Red Team que permite identificar subdominios activos y detectar contenido potencialmente útil para pentesting, como paneles de login, APIs expuestas o formularios sensibles.
 
